@@ -17,6 +17,10 @@ namespace FirstConsoleApplication
         public static void UseSampleProjectUpdateFromGit22()
         {
             Console.WriteLine("Hello UseSampleProjectUpdateFromGit22!!!");
+
+            Console.WriteLine("Hello UseSampleProjectUpdateFromGit22!!!");
+
+            Console.WriteLine("Hello UseSampleProjectUpdateFromGit22!!!");
         }
 
         static void Main(string[] args)
